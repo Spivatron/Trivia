@@ -1,0 +1,129 @@
+Welcome to the Trivia challenge
+	You will be asked 25 questions
+	#A - D
+
+Q1.Dogs can get ___ in Tokyo?
+   A. a House
+   B. a Computer
+   C. a Toupee*
+   D. a Suit
+Q2.What Color is a Lobster blood?
+   A. Black
+   B. Red
+   C. Green
+   D. Blue*
+Q3.What is a group of unicorn known as?
+   A. a Blessing*
+   B. a Herd
+   C. a Pack
+   D. a Drove
+Q4.How old is the world's oldest piece of chewing gum?
+   A. 10,000 years old
+   B. 20 years old
+   C. 9,000 years old*
+   D. 200 years old
+Q5.What is the fear of long words?
+   A. Astraphobia
+   B. Aquaphobia
+   C. Hippopotomonstrosesquippedaliophobia*
+   D. Xenophobia
+Q6.Which animal is known to kill more people than plane crashes?
+   A. Bears
+   B. Donkeys*
+   C. Whales
+   D. Tigers
+Q7.What's the slowest we have ever recorded light?
+   A. The Speed of Light
+   B. 500 MPH
+   C. 26 MPH
+   D. 38 MPH*
+Q8.The Northern Leopard Frog swallows its prey using its ______.
+   A. Feet
+   B. Hands
+   C. Eyes*
+   D. Stomach
+Q9.Who was the first man to urinate on the moon?
+   A. Neil Armstrong
+   B. Buzz Aldrin
+   C. James Irwin
+   D. Charles Duke
+Q10.What was the first movie to show a toilet being flushed?
+   A. Lawrence of Arabia
+   B. The Graduate
+   C. Rosemary's Baby
+   D. Psycho*
+Q11.What is the distance of all the blood vessels in the human body if you laid them end to end?
+   A. 1 Mile
+   B. 100 Miles
+   C. 6,500 Miles
+   D. 60,000 Miles*
+Q12.What did the Romans use to clean their teeth?
+   A. Wine
+   B. Urine*
+   C. Blood
+   D. Bread
+Q13.There was a family of what color skin in Kentucky?
+   A. White
+   B. Purple
+   C. Blue*
+   D. Red
+Q14.Which one of these cheeses contain live maggots?
+   A. Camembert
+   B. Casu Marzu*
+   C. Mozzarella
+   D. Manchego
+Q15.What is as unique as someone's fingerprint?
+   A. Lips
+   B. Ear
+   C. Tongue*
+   D. Heel
+Q16.What was the longest time between two twins being born?
+   A. 1 year
+   B. 63 days
+   C. 38 days
+   D. 87 days*
+Q17.How did the man with the world's longest beard die?
+   A. Old Age
+   B. Heart Attack
+   C. Tripping over his own beard
+   D. In a Fire
+Q18.In 2008, Scientists discovered a new species of bacteria in what everyday product?
+   A. Hairspray*
+   B. Dog Food
+   C. Toothbrush
+   D. Shoes
+Q19.How much does the Eiffel Tower expand when the sun heats up the metal facing it?
+   A. 1/2 inch
+   B. 8 inch
+   C. 1/8 inch
+   D. 7 inch*
+Q20.What natural body function can reduce high blood pressure?
+   A. Farting*
+   B. Urinating
+   C. Crying
+   D. Sneezing
+Q21.What body part is the same size from birth to death?
+   A. Ears
+   B. Nose
+   C. Chin
+   D. Eyes*
+Q22.What is the percentage of people who have never seen snow on Earth?
+   A. 24%
+   B. 39%
+   C. 66%*
+   D. 92%
+Q23.On Average, How much longer do right handed people live than left handed people?
+   A. 9 years*
+   B. 3 years
+   C. 11 years
+   D. 1 year
+Q24.How many years would it take for someone to watch every video on YouTube?
+   A. 10 years
+   B. 4 Months
+   C. 100 years*
+   D. 5 years
+Q25.What is the only planet in our solar system not to be named after a god?
+   A. Uranus
+   B. Jupiter
+   C. Pluto
+   D. Earth*
