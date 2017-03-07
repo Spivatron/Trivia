@@ -1,0 +1,251 @@
+print("Welcome to Trivia Challenge!")
+begin = raw_input("Would you like to begin? ")
+if begin == "yes":
+   #Question 1
+    print ("\nA. a House")
+    print ("B. a Computer")
+    print ("C. a Toupee")
+    print ("D. a Suit\n")
+    q1 = raw_input("Dogs can get ____ in Tokyo? ")
+    if q1 == "C" or q1 == "c":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 2
+    print("\nA. Black")
+    print("B. Red")
+    print("C. Green")
+    print("D. Blue\n")
+    q2 = raw_input("What color is a lobster's blood? ")
+    if q2 == "D" or q2 == "d":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 3
+    print("\nA. a Blessing")
+    print("B. a Herd")
+    print("C. a Pack")
+    print("D. a Drove\n")
+    q3 = raw_input("What is a group of unicorns known as? ")
+    if q3 == "A" or q3 == "a":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 4
+    print("\nA. 10,000 years old")
+    print("B. 20 years old")
+    print("C. 9,000 years old")
+    print("D. 200 years old\n")
+    q4 = raw_input("How old is the world's oldest piece of chewing gum? ")
+    if q4 == "C" or q4 == "c":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 5
+    print("\nA. Astraphobia")
+    print("B. Aquaphobia")
+    print("C. Hippopotomonstrosesquippedaliophobia")
+    print("D. Xenophobia\n")
+    q5 = raw_input("What is the fear of long words? ")
+    if q5 == "C" or q5 == "c":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 6
+    print("\nA. Bears")
+    print("B. Donkeys")
+    print("C. Whales")
+    print("D. Tigers\n")
+    q6 = raw_input("Which animal is known to kill more people than plane crashes? ")
+    if q6 == "B" or q6 == "b":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 7
+    print("\nA. The Speed of Light")
+    print("B. 500 MPH")
+    print("C. 26 MPH")
+    print("D. 38 MPH\n")
+    q7 = raw_input("What's the slowest we have ever recorded light? ")
+    if q7 == "D" or q7 == "d":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 8
+    print("\nA. Feet")
+    print("B. Hands")
+    print("C. Eyes")
+    print("D. Stomach\n")
+    q8 = raw_input("The Northern Leopard Frog swallows its prey using its ____. ")
+    if q8 == "C" or q8 == "c":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 9
+    print("\nA. Neil Armstrong")
+    print("B. Buzz Aldrin")
+    print("C. James Irwin")
+    print("D. Charles Duke\n")
+    q9 = raw_input("Who was the first man to urinate on the moon? ")
+    if q9 == "B" or q9 == "b":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 10
+    print("\nA. Lawrence of Arabia")
+    print("B. The Graduate")
+    print("C. Rosemary's Baby")
+    print("D. Psycho\n")
+    q10 = raw_input("What was the first movie to show a toilet being flushed? ")
+    if q10 == "D" or q10 == "d":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 11
+    print("\nA. 1 Mile")
+    print("B. 100 Miles")
+    print("C. 6,500 Miles")
+    print("D. 60,000 Miles\n")
+    q11 = raw_input("What is the distance of all the blood vessels in the human body if you laid them end to end? ")
+    if q11 == "D" or q11 == "d":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 12
+    print("\nA. Wine")
+    print("B. Urine")
+    print("C. Blood")
+    print("D. Bread\n")
+    q12 = raw_input("What did the Romans use to clean their teeth? ")
+    if q12 == "B" or q12 == "b":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 13
+    print("\nA. White")
+    print("B. Purple")
+    print("C. Blue")
+    print("D. Red\n")
+    q13 = raw_input("There was a family of what color skin in Kentucky? ")
+    if q13 == "B" or q13 == "b":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 14
+    print("\nA. Camembert")
+    print("B. Casu Marzu")
+    print("C. Mozzarella")
+    print("D. Manchego\n")
+    q14 = raw_input("Which one of these cheeses contain live maggots? ")
+    if q14 == "B" or q14 == "b":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 15
+    print("\nA. Lips")
+    print("B. Ear")
+    print("C. Tongue")
+    print("D. Heel\n")
+    q15 = raw_input("What is as unique as someone's fingerprint? ")
+    if q15 == "C" or q15 == "c":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 16
+    print("\nA. 1 year")
+    print("B. 63 days")
+    print("C. 38 days")
+    print("D. 87 days\n")
+    q16 = raw_input("What was the longest time between twins being born? ")
+    if q16 == "D" or q16 == "d":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 17
+    print("\nA. Old Age")
+    print("B. Heart Attack")
+    print("C. Tripping over his own beard")
+    print("D. In a fire\n")
+    q17 = raw_input("How did the man with the world's longest beard die? ")
+    if q17 == "C" or "c":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 18
+    print("\nA. Hairspray")
+    print("B. Dog Food")
+    print("C. Toothbrush")
+    print("D. Shoes\n")
+    q18 = raw_input("In 2008, Scientists discovered a new species of bacteria in what everyday product? ")
+    if q18 == "A" or q18 == "a":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 19
+    print("\nA. 1/2 inch")
+    print("B. 8 inch")
+    print("C. 1/8 inch")
+    print("D. 7 inch\n")
+    q19 = raw_input("How much does the Eiffel Tower expand when the sun heats up the metal facing it? ")
+    if q19 == "D" or q19 == "d":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 20
+    print("\nA. Farting")
+    print("B. Urinating")
+    print("C. Crying")
+    print("D. Sneezing\n")
+    q20 = raw_input("What natural body function can reduce high blood pressure? ")
+    if q20 == "A" or q20 == "a":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 21
+    print("\nA. Ears")
+    print("B. Nose")
+    print("C. Chin")
+    print("D. Eyes\n")
+    q21 = raw_input("What body part is the same size from birth to death? ")
+    if q21 == "D" or q21 == "d":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 22
+    print("\nA. 24%")
+    print("B. 39%")
+    print("C. 66%")
+    print("D. 92%\n")
+    q22 = raw_input("What is the percentage of people who have never seen snow on Earth? ")
+    if q22 == "C" or q22 == "c":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 23
+    print("\nA. 9 years")
+    print("B. 3 years")
+    print("C. 11 years")
+    print("D. 1 year\n")
+    q23 = raw_input("On Average, How much longer do right handed people live than left handed people? ")
+    if q23 == "A" or q23 == "a":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 24
+    print("\nA. 10 years")
+    print("B. 4 Months")
+    print("C. 100 years")
+    print("D. 5 years\n")
+    q24 = raw_input("How many years would it take for someone to watch every video on YouTube? ")
+    if q24 == "C" or q24 == "c":
+        print("Correct!!!")
+    else:
+        print("Incorrect!!!")
+    #Question 25
+    print("\nA. Uranus")
+    print("B. Jupiter")
+    print("C. Pluto")
+    print("D. Earth\n")
+    q25 = raw_input("What is the only planet in our solar system not to be named after a god? ")
+    if q25 == "D" or q25 == "d":
+        print("Correct!!!\n")
