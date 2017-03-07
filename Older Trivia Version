@@ -249,3 +249,6 @@ if begin == "yes":
     q25 = raw_input("What is the only planet in our solar system not to be named after a god? ")
     if q25 == "D" or q25 == "d":
         print("Correct!!!\n")
+    else:
+        print("Incorrect!!!\n")
+        print("Thanks for Playing")
