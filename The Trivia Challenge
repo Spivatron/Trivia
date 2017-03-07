@@ -1,0 +1,21 @@
+print "Welcome to Trivia Challenge!"
+begin = raw_input("Would you like to begin? ")
+if begin == "yes":
+    print "A. a House"
+    print "B. a Computer"
+    print "C. a Toupee"
+    print "D. a Suit"
+    q1 = raw_input("Dogs can get ____ in Tokyo?")
+    if q1 == "C" or q1 == "c":
+        print "Correct!!!"
+    else:
+        print "Incorrect!!!"
+    print "A. Black"
+    print "B. Red"
+    print "C. Green"
+    print "D. Blue"
+    q2 = raw_input("What color is a lobster's blood?")
+    if q2 == "D" or q2 == "d":
+        print "Correct!!!"
+    else:
+        print "Incorrect!!!"
